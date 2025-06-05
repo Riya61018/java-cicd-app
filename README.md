@@ -21,8 +21,6 @@ This project demonstrates a complete DevOps CI/CD pipeline for a Java applicatio
 docker pull vaibh13/java-cicd-app:latest
 docker run --rm vaibh13/java-cicd-app
 
-## Report PDF
-[RiyaPatil_DevOpsProjectReport.pdf](https://github.com/user-attachments/files/20603404/RiyaPatil_DevOpsProjectReport.pdf)
 
 
 
